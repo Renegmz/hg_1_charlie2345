@@ -1,1 +1,9 @@
-# hg_1_charlie
+# Charlie - Rene Gomez
+###
+
+| Integrantes | Ubicacion |
+|-------------|-----------|
+| Rene | Venezuela |
+| Matias | Argentina |
+| Victor | Venezuela |
+| Celestino | Venezuela |
